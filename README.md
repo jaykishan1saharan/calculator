@@ -1,4 +1,4 @@
-# 📝 Rock Paper Scissor Game
+# 📝 Modern Calculator
 This is a calculator
 
 ---
